@@ -19,9 +19,8 @@
         de feridos.
      </p>
      <p>
-       <ul><mark>Não a imagens do local.</mark> </ul>
+       <ul><mark>Não a filmagens do local.</mark> </ul>
            Denucias anônimas sobre o crime e autores podem ser feita pelos números 181 ou 190
-      
      </p>
     
   
